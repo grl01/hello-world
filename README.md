@@ -1,2 +1,3 @@
 # hello-world
-Jaus another repository
+
+People are People and dogs are dogs
